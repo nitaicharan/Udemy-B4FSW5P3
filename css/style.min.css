@@ -36,6 +36,16 @@ body {
   margin: auto;
   border-bottom: 1px #ddd solid; }
 
+#authors img {
+  margin-top: -50px; }
+
+#authors .card:hover {
+  background-color: #3292a6;
+  color: white; }
+
+#authors .fab {
+  color: white; }
+
 /*!
  * Bootstrap v4.4.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors

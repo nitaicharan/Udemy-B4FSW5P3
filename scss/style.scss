@@ -43,15 +43,30 @@ body {
     }
   }
 
-  .mb-resp{
+  .mb-resp {
     margin-bottom: 1rem;
   }
 }
 
-.info-header{
+.info-header {
   width: 50%;
   margin: auto;
   border-bottom: 1px #ddd solid;
+}
+
+#authors {
+  img {
+    margin-top: -50px;
+  }
+
+  .card:hover {
+    background-color: $primary;
+    color: white;
+  }
+
+  .fab {
+    color: white;
+  }
 }
 
 // last line
