@@ -34,7 +34,7 @@
     "@fortawesome/fontawesome-free": "^5.13.0",
     "@popperjs/core": "^2.2.1",
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "live-server": "^1.2.1"
   }
 }
